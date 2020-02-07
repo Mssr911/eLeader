@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<accounts>
+    <account iban="PL61109010140000071219812870">
+        <name>correctAccount</name>
+        <currency>PLN</currency>
+        <balance>0</balance>
+        <closingDate>2029-10-11</closingDate>
+    </account>
+    <account iban="PLA1109010140000071219812875">
+        <name>incorrectIban</name>
+        <currency>USD</currency>
+        <balance>123.45</balance>
+        <closingDate>06-2014-10</closingDate>
+    </account>
+    <account iban="PL11090101071219812875">
+        <name></name>
+        <currency></currency>
+        <balance></balance>
+        <closingDate></closingDate>
+    </account>
+    <account iban="">
+        <name></name>
+        <currency></currency>
+        <balance></balance>
+        <closingDate></closingDate>
+    </account>
+</accounts>
