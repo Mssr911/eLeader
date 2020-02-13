@@ -1,4 +1,4 @@
-# eLeader
+
 zadanie rekrutacyjne
 
 Procesor XML kont bankowych.
